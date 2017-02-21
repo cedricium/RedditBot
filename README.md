@@ -1,5 +1,5 @@
 # RedditBot
-## Development for a Reddit bot, written in Python.
+## Development of a Reddit bot, written in Python.
 
 #### Goals for this project:
 * Learn Python
