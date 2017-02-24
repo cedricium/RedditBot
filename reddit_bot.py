@@ -1,13 +1,14 @@
 import praw
 import time
-#import config
-	# config file looks like the following
+import config
+	# config file looks like the following - must replace the values first
 	# username = "<USERNAME>"
 	# password = "<PASSWORD>"
 	# client_id = "<CLIENT_ID> FROM REDDIT SCRIPT APP"
+	# client_secret = "<CLIENT_SECRET> FROM REDDIT SCRIPT APP"
 import os
 
-# global variables used throughout the program
+# variables used throughout the program
 version = "v0.2"
 time_to_sleep = 10
 number_of_comments = 25
@@ -18,7 +19,7 @@ def bot_login():
 			password = config.password,
 			client_id = config.client_id,
 			client_secret = config.client_secret,
-			user_agent = "Cedric's Commenting Test Bot - v0.1")
+			user_agent = "Cedric's Commenting Test Bot -" + version)
 	print "Logged in!"
 
 	return r
