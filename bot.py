@@ -90,4 +90,4 @@ saved_reddit_links = get_saved_links()
 
 while True:
 	run_bot(r, comments_replied_to, saved_reddit_links)
-	subprocess.call("push_to_github.sh", shell=True)
+	subprocess.call("./push_to_github.sh", shell=True)
