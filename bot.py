@@ -3,6 +3,7 @@ import config		# configuration file for logging into reddit
 import time			# for counting purposes
 import os			# reading / writing contents to files on computer
 import fileinput	# used to add text to existing file
+import subprocess	# used to execute bash script
 
 # variables used throughout the program
 version = "v1.0"
@@ -89,3 +90,4 @@ saved_reddit_links = get_saved_links()
 
 while True:
 	run_bot(r, comments_replied_to, saved_reddit_links)
+	subprocess.call("push_to_github.sh", shell=True)
