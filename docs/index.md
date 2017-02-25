@@ -17,3 +17,6 @@
 ## #something_different
   * [Test 3.75 - I HAVE A HEADACHE](https://www.reddit.com/r/cedriciumCSS/comments/5w2gaf/test_375_i_have_a_headache/)
 
+## #inspiring
+  * [I Built A Desktop Robot That Responds Entirely In GIFs](http://imgur.com/a/ue4Ax)
+
