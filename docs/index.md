@@ -52,6 +52,8 @@
 
 ## #arduino
 
+  * [This is my Arduino-powered honeypot. If you want to see how quickly/often someone tries to hack into a typical Internet-connected device, look no further than this example. Details in thread.](https://i.redd.it/nx3bjv8s379y.jpg)
+
   * [I want to get into robotics, but I am overwhelmed with options. Can anyone help me out?](https://www.reddit.com/r/arduino/comments/5pdjfs/i_want_to_get_into_robotics_but_i_am_overwhelmed/)
   * [Making HTTPS requests directly from an ESP8266 using the Arduino IDE](https://youtu.be/hMZdM0Wlt54)
 
