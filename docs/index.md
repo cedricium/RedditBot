@@ -38,6 +38,10 @@
 
 ## #UX/UI
 
+  * [CodePen 100 Top-Hearted Pens of 2016](https://codepen.io/2016/popular/pens/)
+
+  * [Creating Non-Rectangular Headers](https://css-tricks.com/creating-non-rectangular-headers/)
+
   * [The ultimate color combinations cheat sheet](https://brightside.me/article/the-ultimate-color-combinations-cheat-sheet-92405/)
 
   * [Google just launched material.io](https://material.io/)
