@@ -36,3 +36,6 @@
 ## #algorithms
   * [I sucked at algorithms but got better, and you can too!](https://www.reddit.com/r/cscareerquestions/comments/57hybf/i_sucked_at_algorithms_but_got_better_and_you_can/)
 
+## #UX/UI
+  * [Lots of Notification, Loaders and Progress Button Inspiration / Demos... Seriously Good Stuff](http://tympanus.net/Development/NotificationStyles/growl-genie.html)
+
