@@ -20,6 +20,8 @@
   * [26 YouTube Channels To Boost Your Web Development Career in 2017 - Optimizer WP](https://optimizerwp.com/web-development-tutorial-youtube/)
 
 ## #compsci
+
+  * [Computer Science courses with video lectures](https://github.com/Developer-Y/cs-video-courses)
   * [Best Computer Science Books](https://www.reddit.com/r/compsci/comments/5vcq7x/best_computer_science_books/)
 
 ## #python
