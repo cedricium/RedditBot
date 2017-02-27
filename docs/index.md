@@ -6,6 +6,8 @@
 
 ## #javascript
 
+  * [Learn Javascript with a SIMPLE Project: "Rock, Paper, Scissors" | JS Training Tutorial w/ Examples](https://www.youtube.com/watch?v=2uH_glWzB7Y&list=PLRcnnTsvnkLN0VUFnWMfxhW-20pWBT4cJ)
+
   * [Learn JavaScript With Interactive Challenges: Earn XP, Unlock Achievements & Climb The Leaderboard](https://www.reddit.com/r/learnprogramming/comments/5vc3gb/learn_javascript_with_interactive_challenges_earn/)
   * [How did you learn it?](https://www.reddit.com/r/learnjavascript/comments/5pbbnt/how_did_you_learn_it/)
 
