@@ -25,6 +25,8 @@
   * [Best Computer Science Books](https://www.reddit.com/r/compsci/comments/5vcq7x/best_computer_science_books/)
 
 ## #python
+
+  * [Here's part two of my tutorial series on creating a reddit bot using Python](https://www.reddit.com/r/learnprogramming/comments/5v8tgn/heres_part_two_of_my_tutorial_series_on_creating/)
   * [Here's part three of my tutorial series on creating a reddit bot using Python. This tutorial introduces the use of APIs.](https://www.reddit.com/r/learnprogramming/comments/5vhypn/heres_part_three_of_my_tutorial_series_on/)
 
 ## #algorithms
