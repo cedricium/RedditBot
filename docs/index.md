@@ -38,6 +38,10 @@
 
 ## #UX/UI
 
+  * [The ultimate color combinations cheat sheet](https://brightside.me/article/the-ultimate-color-combinations-cheat-sheet-92405/)
+
+  * [Google just launched material.io](https://material.io/)
+
   * [Open source Material Design Iconic Font](http://zavoloklom.github.io/material-design-iconic-font/)
   * [Lots of Notification, Loaders and Progress Button Inspiration / Demos... Seriously Good Stuff](http://tympanus.net/Development/NotificationStyles/growl-genie.html)
 
