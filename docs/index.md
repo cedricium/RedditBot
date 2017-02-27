@@ -31,3 +31,6 @@
 ## #python
   * [Here's part three of my tutorial series on creating a reddit bot using Python. This tutorial introduces the use of APIs.](https://www.reddit.com/r/learnprogramming/comments/5vhypn/heres_part_three_of_my_tutorial_series_on/)
 
+## #algorithms
+  * [I sucked at algorithms but got better, and you can too!](https://www.reddit.com/r/cscareerquestions/comments/57hybf/i_sucked_at_algorithms_but_got_better_and_you_can/)
+
