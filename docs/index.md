@@ -2,6 +2,8 @@
   * [I Built A Desktop Robot That Responds Entirely In GIFs](http://imgur.com/a/ue4Ax)
 
 ## #mechkeeb
+
+  * [My first mechanical keyboard -- jumped off the deep end. [photos]](http://imgur.com/a/U0pU6)
   * [ＯＮＯ－ＳＥＮＤＡＩ ＭＡＴＲＩＸ ８３](http://imgur.com/a/v5pzh)
 
 ## #javascript
