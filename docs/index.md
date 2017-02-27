@@ -46,14 +46,11 @@
   * [A Comprehensive Guide To Getting An Internship](https://www.reddit.com/r/cscareerquestions/comments/5rc9z8/a_comprehensive_guide_to_getting_an_internship/)
 
 ## #interviews
-
   * [What are the best questions to ask your interviewer when he/she says: "Do you have any questions?"](https://www.reddit.com/r/cscareerquestions/comments/5pesl2/what_are_the_best_questions_to_ask_your/)
   * [Moderately Useful Interview Guide](https://www.reddit.com/r/cscareerquestions/comments/5so77y/moderately_useful_interview_guide/)
 
 ## #arduino
-
   * [This is my Arduino-powered honeypot. If you want to see how quickly/often someone tries to hack into a typical Internet-connected device, look no further than this example. Details in thread.](https://i.redd.it/nx3bjv8s379y.jpg)
-
   * [I want to get into robotics, but I am overwhelmed with options. Can anyone help me out?](https://www.reddit.com/r/arduino/comments/5pdjfs/i_want_to_get_into_robotics_but_i_am_overwhelmed/)
   * [Making HTTPS requests directly from an ESP8266 using the Arduino IDE](https://youtu.be/hMZdM0Wlt54)
 

@@ -8,7 +8,7 @@ import subprocess	# used to execute bash script
 # variables used throughout the program
 version = "v1.0"
 time_to_sleep = 600
-number_of_comments = 500
+number_of_comments = 15
 
 def bot_login():
 	print "Logging in..."
@@ -31,11 +31,11 @@ def run_bot(r, comments_replied_to, saved_reddit_links):
 			submission_title = comment.link_title
 			submission_url = comment.link_url
 			
-			comment.reply("Hey Cedricium, I will be saving this thread under the `" + tag + "` tag. Have a good one!\n\n&nbsp;\n\n---\n^G'day, ^I ^am ^a ^personal ^assistant ^bot.\n\n**^Source ^Code:** [^Here ^on ^GitHub](https://github.com/cedricium/RedditBot)^.\n\n**^Created ^By:** ^/u/Cedricium")
+			# comment.reply("Hey Cedricium, I will be saving this thread under the `" + tag + "` tag. Have a good one!\n\n&nbsp;\n\n---\n^G'day, ^I ^am ^a ^personal ^assistant ^bot.\n\n**^Source ^Code:** [^Here ^on ^GitHub](https://github.com/cedricium/RedditBot)^.\n\n**^Created ^By:** ^/u/Cedricium")
 			
 			tag_and_title = "## " + tag + "\n  * [" + submission_title + "](" + submission_url + ")\n"
 			
-			title_only = "\n  * [" + submission_title + "](" + submission_url + ")\n"	
+			title_only = "\n  * [" + submission_title + "](" + submission_url + ")"	
 			
 			# add tag, title, and URL to docs/index.md
 			if tag.encode('utf-8') not in open("docs/index.md").read():
@@ -57,9 +57,9 @@ def run_bot(r, comments_replied_to, saved_reddit_links):
 			with open("comments_replied_to.txt", "a") as f:
 				f.write(comment.id + "\n")
 			
-			print "Sleeping for " + str(time_to_sleep) + " seconds..."
-			# sleep for str(time_to_sleep) seconds before running bot again
-			time.sleep(time_to_sleep)
+	print "Sleeping for " + str(time_to_sleep) + " seconds..."
+	# sleep for str(time_to_sleep) seconds before running bot again
+	time.sleep(time_to_sleep)
 
 
 # method checks for a file with comment.id's, creates one if not found
