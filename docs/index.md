@@ -25,6 +25,8 @@
 
 ## #compsci
 
+  * [Google Interview University - multi-month study plan for going from web developer (self-taught, no CS degree) to Google software engineer](https://github.com/jwasham/google-interview-university)
+
   * [Computer Science courses with video lectures](https://github.com/Developer-Y/cs-video-courses)
   * [Best Computer Science Books](https://www.reddit.com/r/compsci/comments/5vcq7x/best_computer_science_books/)
 
