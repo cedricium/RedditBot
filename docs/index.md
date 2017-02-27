@@ -25,6 +25,8 @@
 
 ## #compsci
 
+  * [What's the single most useful CS-related link you have in your bookmarks bar?](https://www.reddit.com/r/cscareerquestions/comments/5bsg82/whats_the_single_most_useful_csrelated_link_you/)
+
   * [Google Interview University - multi-month study plan for going from web developer (self-taught, no CS degree) to Google software engineer](https://github.com/jwasham/google-interview-university)
 
   * [Computer Science courses with video lectures](https://github.com/Developer-Y/cs-video-courses)
