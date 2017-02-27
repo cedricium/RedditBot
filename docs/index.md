@@ -45,3 +45,8 @@
   * [How to land a top-notch tech internship — and a tech job (A detailed guide for college students)](https://www.reddit.com/r/cscareerquestions/comments/5phiyf/how_to_land_a_topnotch_tech_internship_and_a_tech/)
   * [A Comprehensive Guide To Getting An Internship](https://www.reddit.com/r/cscareerquestions/comments/5rc9z8/a_comprehensive_guide_to_getting_an_internship/)
 
+## #interviews
+
+  * [What are the best questions to ask your interviewer when he/she says: "Do you have any questions?"](https://www.reddit.com/r/cscareerquestions/comments/5pesl2/what_are_the_best_questions_to_ask_your/)
+  * [Moderately Useful Interview Guide](https://www.reddit.com/r/cscareerquestions/comments/5so77y/moderately_useful_interview_guide/)
+
