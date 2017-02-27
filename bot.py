@@ -38,15 +38,17 @@ def run_bot(r, comments_replied_to, saved_reddit_links):
 			title_only = "\n  * [" + submission_title + "](" + submission_url + ")\n"	
 			
 			# add tag, title, and URL to docs/index.md
-			if tag not in open("docs/index.md").read():
+			if tag.encode('utf-8') not in open("docs/index.md").read():
 				saved_reddit_links.append(tag_and_title)
 
 				with open("docs/index.md", "a") as f:
-					f.write(tag_and_title + "\n")
+					s = ""
+					seq = (tag_and_title, "\n")
+					f.write(s.join(seq).encode('utf-8'))
 			else:
 				for line in fileinput.FileInput("docs/index.md",inplace=1):
-					if tag in line:
-						line = line.replace(line,line + title_only)
+					if tag.encode('utf-8') in line:
+						line = line.replace(line,line + title_only.encode('utf-8'))
 					print line,
 
 			# add comment.id to comments_replied_to
