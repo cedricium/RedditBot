@@ -39,4 +39,8 @@
   * [The ultimate color combinations cheat sheet](https://brightside.me/article/the-ultimate-color-combinations-cheat-sheet-92405/)
   * [Google just launched material.io](https://material.io/)
   * [Open source Material Design Iconic Font](http://zavoloklom.github.io/material-design-iconic-font/)
-  * [Lots of Notification, Loaders and Progress Button Inspiration / Demos... Seriously Good Stuff](http://tympanus.net/Development/NotificationStyles/growl-genie.html)
+  * [Lots of Notification, Loaders and Progress Button Inspiration / Demos... Seriously Good Stuff](http://tympanus.net/Development/NotificationStyles/growl-genie.html)## #internships
+
+  * [How to land a top-notch tech internship — and a tech job (A detailed guide for college students)](https://www.reddit.com/r/cscareerquestions/comments/5phiyf/how_to_land_a_topnotch_tech_internship_and_a_tech/)
+  * [A Comprehensive Guide To Getting An Internship](https://www.reddit.com/r/cscareerquestions/comments/5rc9z8/a_comprehensive_guide_to_getting_an_internship/)
+
