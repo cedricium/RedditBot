@@ -13,7 +13,8 @@
   * [How did you learn it?](https://www.reddit.com/r/learnjavascript/comments/5pbbnt/how_did_you_learn_it/)
 
 ## #random_but_cool
-  * [ELI5: When choosing the 'Restart' option on my computer, how does it know how to turn itself on, after being turned off?](https://www.reddit.com/r/explainlikeimfive/comments/5v3xzk/eli5_when_choosing_the_restart_option_on_my/)
+
+  * [I quit my job, bought an army truck, and spent 19 months circumnavigating Africa](http://imgur.com/a/bSOKf)   * [ELI5: When choosing the 'Restart' option on my computer, how does it know how to turn itself on, after being turned off?](https://www.reddit.com/r/explainlikeimfive/comments/5v3xzk/eli5_when_choosing_the_restart_option_on_my/)
   * [I built a computer](http://imgur.com/gallery/hfG6e)
 
 ## #webdev
