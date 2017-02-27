@@ -35,7 +35,7 @@ def run_bot(r, comments_replied_to, saved_reddit_links):
 			
 			tag_and_title = "## " + tag + "\n  * [" + submission_title + "](" + submission_url + ")\n"
 			
-			title_only = "\n  * [" + submission_title + "](" + submission_url + ")"	
+			title_only = "\n  * [" + submission_title + "](" + submission_url + ")\n"	
 			
 			# add tag, title, and URL to docs/index.md
 			if tag.encode('utf-8') not in open("docs/index.md").read():
