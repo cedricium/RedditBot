@@ -50,3 +50,8 @@
   * [What are the best questions to ask your interviewer when he/she says: "Do you have any questions?"](https://www.reddit.com/r/cscareerquestions/comments/5pesl2/what_are_the_best_questions_to_ask_your/)
   * [Moderately Useful Interview Guide](https://www.reddit.com/r/cscareerquestions/comments/5so77y/moderately_useful_interview_guide/)
 
+## #arduino
+
+  * [I want to get into robotics, but I am overwhelmed with options. Can anyone help me out?](https://www.reddit.com/r/arduino/comments/5pdjfs/i_want_to_get_into_robotics_but_i_am_overwhelmed/)
+  * [Making HTTPS requests directly from an ESP8266 using the Arduino IDE](https://youtu.be/hMZdM0Wlt54)
+
