@@ -38,6 +38,8 @@
   * [I sucked at algorithms but got better, and you can too!](https://www.reddit.com/r/cscareerquestions/comments/57hybf/i_sucked_at_algorithms_but_got_better_and_you_can/)
 
 ## #UX/UI
+
+  * [A year ago, I started open sourcing my unused logo designs to developers](http://logodust.com/?d)
   * [CodePen 100 Top-Hearted Pens of 2016](https://codepen.io/2016/popular/pens/)
   * [Creating Non-Rectangular Headers](https://css-tricks.com/creating-non-rectangular-headers/)
   * [The ultimate color combinations cheat sheet](https://brightside.me/article/the-ultimate-color-combinations-cheat-sheet-92405/)
@@ -62,4 +64,7 @@
 
 ## #open_source
   * [GitHub announces open sources guides to help people to participate in open source projects](https://opensource.guide/)
+
+## #bullet_journal
+  * [March Hare title plate with squiggy shading.](https://i.redd.it/2qhcv95x0uiy.jpg)
 
