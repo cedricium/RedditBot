@@ -1,7 +1,7 @@
-import praw			# reddit api wrapper for python
+import praw		# reddit api wrapper for python
 import config		# configuration file for logging into reddit
-import time			# for counting purposes
-import os			# reading / writing contents to files on computer
+import time		# for counting purposes
+import os		# reading / writing contents to files on computer
 import fileinput	# used to add text to existing file
 import subprocess	# used to execute bash script
 
