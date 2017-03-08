@@ -1,4 +1,6 @@
 ## #inspiring
+
+  * [[photos] I created a mechanical slider for my keyboard. Video in the comments.](http://imgur.com/a/S5Vri)
   * [I Built A Desktop Robot That Responds Entirely In GIFs](http://imgur.com/a/ue4Ax)
 
 ## #mechkeeb
@@ -58,6 +60,8 @@
   * [Moderately Useful Interview Guide](https://www.reddit.com/r/cscareerquestions/comments/5so77y/moderately_useful_interview_guide/)
 
 ## #arduino
+
+  * [Arduino Traffic Display Using Google Maps API (Github and Instructables in the comments)](https://www.youtube.com/watch?v=KjIRUTPcvCQ)
   * [This is my Arduino-powered honeypot. If you want to see how quickly/often someone tries to hack into a typical Internet-connected device, look no further than this example. Details in thread.](https://i.redd.it/nx3bjv8s379y.jpg)
   * [I want to get into robotics, but I am overwhelmed with options. Can anyone help me out?](https://www.reddit.com/r/arduino/comments/5pdjfs/i_want_to_get_into_robotics_but_i_am_overwhelmed/)
   * [Making HTTPS requests directly from an ESP8266 using the Arduino IDE](https://youtu.be/hMZdM0Wlt54)
@@ -66,5 +70,7 @@
   * [GitHub announces open sources guides to help people to participate in open source projects](https://opensource.guide/)
 
 ## #bullet_journal
+
+  * [Got my first Leuchttrum1917. Now I need a pen](https://www.reddit.com/r/notebooks/comments/5xwxog/got_my_first_leuchttrum1917_now_i_need_a_pen/)
   * [March Hare title plate with squiggy shading.](https://i.redd.it/2qhcv95x0uiy.jpg)
 
