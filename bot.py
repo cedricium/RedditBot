@@ -7,7 +7,7 @@ import subprocess	# used to execute bash script
 
 # variables used throughout the program
 version = "v1.0"
-time_to_sleep = 15
+time_to_sleep = 5
 number_of_comments = 500
 
 def bot_login():
