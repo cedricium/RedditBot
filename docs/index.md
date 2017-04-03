@@ -1,7 +1,6 @@
 ## #inspiring
 
   * [My journey and tips: 2.9 GPA at a no-name liberal arts college with 1 mediocre internship —> 4 FTE offers including FB](https://www.reddit.com/r/cscareerquestions/comments/6278bi/my_journey_and_tips_29_gpa_at_a_noname_liberal/)
-
   * [[photos] I created a mechanical slider for my keyboard. Video in the comments.](http://imgur.com/a/S5Vri)
   * [I Built A Desktop Robot That Responds Entirely In GIFs](http://imgur.com/a/ue4Ax)
 
@@ -64,7 +63,6 @@
 ## #interviews
 
   * [Great collection of programming interview questions in a no-fuss PDF (good for flights!)](https://www.reddit.com/r/cscareerquestions/comments/62sbry/great_collection_of_programming_interview/)
-
   * [Sharing some interview tips](https://www.reddit.com/r/cscareerquestions/comments/5w2oyn/sharing_some_interview_tips/)
   * [What are the best questions to ask your interviewer when he/she says: "Do you have any questions?"](https://www.reddit.com/r/cscareerquestions/comments/5pesl2/what_are_the_best_questions_to_ask_your/)
   * [Moderately Useful Interview Guide](https://www.reddit.com/r/cscareerquestions/comments/5so77y/moderately_useful_interview_guide/)
